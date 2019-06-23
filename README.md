@@ -1,5 +1,5 @@
 # HS_Centers_List
-Mapping Counties to Head Start Centers.
+Building a list of Head Start Centers by counties in Oklahoma.
 
 Updated lists of zip codes by county may be difficult to find. 
 
